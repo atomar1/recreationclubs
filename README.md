@@ -37,7 +37,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/lh5OYeL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<center>
+  <img src="https://imgur.com/a/lh5OYeL" width="800" height="450" alt="Video Walkthrough" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</center>
 
 GIF created with LiceCAP  
 
