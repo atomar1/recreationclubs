@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
-<img src='https://i.imgur.com/a/lh5OYeL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/g1oAr9K6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCAP  
 
